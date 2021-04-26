@@ -81,6 +81,15 @@ ul li:hover {
     right: 5%;
 }
 
+.mainbox:hover .prizetag {
+    color: yellow;
+    background-color: darkblue;
+}
+
+.mainbox:hover .f_yellow h3 {
+    color: yellow;
+}
+
 .properties {
     padding-left: 10px;
     box-sizing: border-box;
